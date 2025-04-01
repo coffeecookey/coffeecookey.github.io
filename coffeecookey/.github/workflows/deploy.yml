@@ -42,11 +42,11 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Install Node.js dependencies
-        working-directory: ./blog/coffeecookey
+        working-directory: ./coffeecookey
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
 
       - name: Build with Hugo
-        working-directory: ./blog/coffeecookey
+        working-directory: ./coffeecookey
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
@@ -59,7 +59,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./blog/coffeecookey/public
+          path: ./coffeecookey/public
 
   deploy:
     environment:
