@@ -58,7 +58,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Tanisha Ojha"
-  subtitle = "Navigating through life, and a little crazy about coding & coffee ☕"
+  subtitle = "Navigating life, and a little crazy about coding & coffee ☕"
   imageUrl = "me.jpeg"
   imageWidth = 250
   imageHeight = 250
