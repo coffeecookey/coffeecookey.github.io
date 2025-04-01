@@ -3,15 +3,10 @@ name: Deploy Hugo to GitHub Pages
 on:
   push:
     branches: [main]
-  pull_request:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    concurrency:
-      group: deploy-${{ github.ref }}
-      cancel-in-progress: true
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -26,12 +21,13 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: |
+          cd blog/coffeecookey  # Navigate to your Hugo site directory
+          hugo --minify --source .
 
       - name: Deploy to GitHub Pages
-        if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          force_orphan: true # Ensures clean gh-pages branch
+          publish_dir: ./blog/coffeecookey/public # Path to your built site
+          force_orphan: true
