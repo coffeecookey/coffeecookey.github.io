@@ -1,4 +1,4 @@
-baseURL = 'https://www.coffeecookey.github.io/blog/'
+baseURL = 'https://coffeecookey.github.io/blog/'
 languageCode = 'en-us'
 title = "Coffeecookey"
 theme="PaperMod"
