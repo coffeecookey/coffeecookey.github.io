@@ -1,6 +1,6 @@
 baseURL = 'https://www.coffeecookey.github.io/blog/'
 languageCode = 'en-us'
-title = 'Coffeecookey'
+title = "Coffeecookey"
 theme="PaperMod"
 
 enableRobotsTXT = true
