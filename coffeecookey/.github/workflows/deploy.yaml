@@ -1,4 +1,5 @@
 name: Publish to GH Pages
+
 on:
   push:
     branches:
@@ -20,13 +21,16 @@ jobs:
         with:
           ref: gh-pages
           path: built-site
+          persist-credentials: false
 
       - name: Setup Hugo
         run: |
           curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.110.0/hugo_extended_0.110.0_linux-amd64.tar.gz'
           tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo
+          chmod +x ${RUNNER_TEMP}/hugo  # Ensure Hugo is executable
+
       - name: Build
-        run: ${RUNNER_TEMP}/hugo
+        run: ${RUNNER_TEMP}/hugo --minify
 
       - name: Deploy
         if: github.ref == 'refs/heads/main'
@@ -34,7 +38,7 @@ jobs:
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
           git add .
-          git config user.name 'dhij'
-          git config user.email 'davidhwang.ij@gmail.com'
-          git commit -m 'Updated site'
-          git push
+          git config user.name 'GitHub Actions'
+          git config user.email 'github-actions@github.com'
+          git commit -m 'Updated site' || echo "No changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:gh-pages
