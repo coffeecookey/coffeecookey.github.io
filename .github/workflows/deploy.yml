@@ -47,7 +47,7 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
-          cd site/coffeecookey
+          cd site/
           hugo \
             --gc \
             --minify \
@@ -56,7 +56,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site/coffeecookey/public
+          path: site/public
 
   deploy:
     environment:
