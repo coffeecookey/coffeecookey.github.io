@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/docs/</loc>
+    <loc>https://coffeecookey.github.io/blog/docs/</loc>
+    <lastmod>2025-08-23T14:45:13+05:30</lastmod>
+  </url><url>
+    <loc>https://coffeecookey.github.io/blog/docs/posts/</loc>
+    <lastmod>2025-08-23T14:45:13+05:30</lastmod>
+  </url><url>
+    <loc>https://coffeecookey.github.io/blog/docs/tags/dsa/</loc>
     <lastmod>2025-04-12T14:35:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/docs/tags/dsa/</loc>
+    <loc>https://coffeecookey.github.io/blog/docs/posts/2/</loc>
     <lastmod>2025-04-12T14:35:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/docs/posts/2/</loc>
+    <loc>https://coffeecookey.github.io/blog/docs/tags/personal/</loc>
     <lastmod>2025-04-12T14:35:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/docs/tags/personal/</loc>
+    <loc>https://coffeecookey.github.io/blog/docs/tags/progress/</loc>
     <lastmod>2025-04-12T14:35:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/docs/posts/</loc>
+    <loc>https://coffeecookey.github.io/blog/docs/tags/</loc>
     <lastmod>2025-04-12T14:35:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/docs/tags/progress/</loc>
-    <lastmod>2025-04-12T14:35:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/docs/tags/</loc>
-    <lastmod>2025-04-12T14:35:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/docs/tags/about-me/</loc>
+    <loc>https://coffeecookey.github.io/blog/docs/tags/about-me/</loc>
     <lastmod>2025-04-01T17:44:44+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/docs/posts/first-post/</loc>
+    <loc>https://coffeecookey.github.io/blog/docs/posts/first-post/</loc>
     <lastmod>2025-04-01T17:44:44+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/docs/archive/</loc>
+    <loc>https://coffeecookey.github.io/blog/docs/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/docs/search/</loc>
+    <loc>https://coffeecookey.github.io/blog/docs/search/</loc>
   </url>
 </urlset>

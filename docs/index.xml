@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Coffeecookey</title>
-    <link>http://localhost:1313/blog/docs/</link>
+    <link>https://coffeecookey.github.io/blog/docs/</link>
     <description>Recent content on Coffeecookey</description>
     <image>
       <title>Coffeecookey</title>
-      <url>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://coffeecookey.github.io/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://coffeecookey.github.io/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Apr 2025 14:35:47 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://coffeecookey.github.io/blog/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DSA, End sems and 2 cups of coffee</title>
-      <link>http://localhost:1313/blog/docs/posts/2/</link>
+      <link>https://coffeecookey.github.io/blog/docs/posts/2/</link>
       <pubDate>Sat, 12 Apr 2025 14:35:47 +0530</pubDate>
-      <guid>http://localhost:1313/blog/docs/posts/2/</guid>
+      <guid>https://coffeecookey.github.io/blog/docs/posts/2/</guid>
       <description>&lt;p&gt;I still can&amp;rsquo;t believe that my blog is finally up! I already have so many ideas for this website like adding a page for my resume, a project showcase of sorts etc. and while I&amp;rsquo;m excited to implement those, I&amp;rsquo;d be lying if I said I wasn&amp;rsquo;t scared of the code. Having 5 mental brakdowns and 3 deleted blogsites in a span of 2 days really did make me feel like a true programmer though.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post/About Me</title>
-      <link>http://localhost:1313/blog/docs/posts/first-post/</link>
+      <link>https://coffeecookey.github.io/blog/docs/posts/first-post/</link>
       <pubDate>Tue, 01 Apr 2025 17:44:44 +0530</pubDate>
-      <guid>http://localhost:1313/blog/docs/posts/first-post/</guid>
+      <guid>https://coffeecookey.github.io/blog/docs/posts/first-post/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 &lt;p&gt;Hello, world! My name is Tanisha and I am a first year B.Tech IT student at Indira Gandhi Delhi Technical University for Women (IGDTUW).&lt;/p&gt;
 &lt;p&gt;My college keeps me very busy (the travel time alone is exhausting enough haha) but when I&amp;rsquo;m not focusing on academics, you&amp;rsquo;ll find me &lt;em&gt;dabbling in design&lt;/em&gt; (check out my &lt;a href=&#34;https://www.behance.net/tanishaojha20&#34;&gt;Behance&lt;/a&gt;), &lt;em&gt;reading a book&lt;/em&gt; or &lt;em&gt;making art&lt;/em&gt;! If I&amp;rsquo;m feeling super ambitious, you&amp;rsquo;ll catch me studying about machine learning, cryptocurrancy or cybersecurity.&lt;/p&gt;</description>
