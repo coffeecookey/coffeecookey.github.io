@@ -1,6 +1,6 @@
 +++
 date = '2025-08-23T14:45:13+05:30'
-draft = true
+draft = false
 title = 'Designing Portal in 2D - Exit Protocol'
 tags = ['game dev', 'design']
 +++
