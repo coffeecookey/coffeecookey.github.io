@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Design on Coffeecookey</title>
+    <link>http://localhost:1313/blog/docs/tags/design/</link>
+    <description>Recent content in Design on Coffeecookey</description>
+    <image>
+      <title>Coffeecookey</title>
+      <url>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Aug 2025 14:45:13 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/docs/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating Portal in 2D - Exit Protocol</title>
+      <link>http://localhost:1313/blog/docs/posts/nus-sicp/nus-sicp/</link>
+      <pubDate>Sat, 23 Aug 2025 14:45:13 +0530</pubDate>
+      <guid>http://localhost:1313/blog/docs/posts/nus-sicp/nus-sicp/</guid>
+      <description>&lt;p&gt;(1/2)&lt;/p&gt;
+&lt;p&gt;This post is part of a series of posts. This post discusses the &lt;strong&gt;introduction&lt;/strong&gt; and &lt;strong&gt;design&lt;/strong&gt; aspects of the game.&lt;/p&gt;
+&lt;p&gt;Click here for the 2nd post.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This summer, I got the opportunity to go to the National University of Singapore (NUS) and attend a course called &amp;lsquo;The Structure &amp;amp; Interpretation of Computer Programs&amp;rsquo;. This course was an introduction to &lt;em&gt;programming methodology&lt;/em&gt;, wherein we were supposed to understand basic concepts of programming and submit a final project towards the end.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

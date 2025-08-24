@@ -2,24 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Game Dev on Coffeecookey</title>
-    <link>https://coffeecookey.github.io/blog/docs/tags/game-dev/</link>
+    <link>http://localhost:1313/blog/docs/tags/game-dev/</link>
     <description>Recent content in Game Dev on Coffeecookey</description>
     <image>
       <title>Coffeecookey</title>
-      <url>https://coffeecookey.github.io/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://coffeecookey.github.io/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Aug 2025 14:45:13 +0530</lastBuildDate>
-    <atom:link href="https://coffeecookey.github.io/blog/docs/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/docs/tags/game-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating Portal in 2D - Exit Protocol</title>
-      <link>https://coffeecookey.github.io/blog/docs/posts/nus-sicp/</link>
+      <link>http://localhost:1313/blog/docs/posts/nus-sicp/nus-sicp/</link>
       <pubDate>Sat, 23 Aug 2025 14:45:13 +0530</pubDate>
-      <guid>https://coffeecookey.github.io/blog/docs/posts/nus-sicp/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This summer, I got the opportunity to go to the National University of Singapore (NUS) and attend a course called &amp;lsquo;The Structure &amp;amp; Interpretation of Computer Programs&amp;rsquo;. This course was an introduction to programming methodology, wherein we were supposed to understand basic concepts of programming and submit a final project towards the end. Most people (including our team) decided to develop a game. After days of endless discussion as to what would be the most interesting and feasible idea, my team and I decided to develop a two dimensional version of the popular game &amp;lsquo;Portal&amp;rsquo; as part of out project. The part about feasibility was of great importance, since the interesting part about working on this project was that we had to use a completely new language called Source. Luckily, this language was derived from JavaScript and didn&amp;rsquo;t feel all that unfamiliar.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/docs/posts/nus-sicp/nus-sicp/</guid>
+      <description>&lt;p&gt;(1/2)&lt;/p&gt;
+&lt;p&gt;This post is part of a series of posts. This post discusses the &lt;strong&gt;introduction&lt;/strong&gt; and &lt;strong&gt;design&lt;/strong&gt; aspects of the game.&lt;/p&gt;
+&lt;p&gt;Click here for the 2nd post.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This summer, I got the opportunity to go to the National University of Singapore (NUS) and attend a course called &amp;lsquo;The Structure &amp;amp; Interpretation of Computer Programs&amp;rsquo;. This course was an introduction to &lt;em&gt;programming methodology&lt;/em&gt;, wherein we were supposed to understand basic concepts of programming and submit a final project towards the end.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

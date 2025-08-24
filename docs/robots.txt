@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://coffeecookey.github.io/blog/docs/sitemap.xml
+Sitemap: http://localhost:1313/blog/docs/sitemap.xml

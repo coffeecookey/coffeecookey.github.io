@@ -2,29 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Coffeecookey</title>
-    <link>https://coffeecookey.github.io/blog/docs/posts/</link>
+    <link>http://localhost:1313/blog/docs/posts/</link>
     <description>Recent content in Posts on Coffeecookey</description>
     <image>
       <title>Coffeecookey</title>
-      <url>https://coffeecookey.github.io/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://coffeecookey.github.io/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Apr 2025 14:35:47 +0530</lastBuildDate>
-    <atom:link href="https://coffeecookey.github.io/blog/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Aug 2025 12:39:51 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Portal in 2D - Exit Protocol</title>
+      <link>http://localhost:1313/blog/docs/posts/nus-sicp/nus-sicp2/</link>
+      <pubDate>Sun, 24 Aug 2025 12:39:51 +0530</pubDate>
+      <guid>http://localhost:1313/blog/docs/posts/nus-sicp/nus-sicp2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Designing Portal in 2D - Exit Protocol</title>
+      <link>http://localhost:1313/blog/docs/posts/nus-sicp/nus-sicp/</link>
+      <pubDate>Sat, 23 Aug 2025 14:45:13 +0530</pubDate>
+      <guid>http://localhost:1313/blog/docs/posts/nus-sicp/nus-sicp/</guid>
+      <description>&lt;p&gt;(1/2)&lt;/p&gt;
+&lt;p&gt;This post is part of a series of posts. This post discusses the &lt;strong&gt;introduction&lt;/strong&gt; and &lt;strong&gt;design&lt;/strong&gt; aspects of the game.&lt;/p&gt;
+&lt;p&gt;Click here for the 2nd post.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This summer, I got the opportunity to go to the National University of Singapore (NUS) and attend a course called &amp;lsquo;The Structure &amp;amp; Interpretation of Computer Programs&amp;rsquo;. This course was an introduction to &lt;em&gt;programming methodology&lt;/em&gt;, wherein we were supposed to understand basic concepts of programming and submit a final project towards the end.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>DSA, End sems and 2 cups of coffee</title>
-      <link>https://coffeecookey.github.io/blog/docs/posts/2/</link>
+      <link>http://localhost:1313/blog/docs/posts/2/</link>
       <pubDate>Sat, 12 Apr 2025 14:35:47 +0530</pubDate>
-      <guid>https://coffeecookey.github.io/blog/docs/posts/2/</guid>
+      <guid>http://localhost:1313/blog/docs/posts/2/</guid>
       <description>&lt;p&gt;I still can&amp;rsquo;t believe that my blog is finally up! I already have so many ideas for this website like adding a page for my resume, a project showcase of sorts etc. and while I&amp;rsquo;m excited to implement those, I&amp;rsquo;d be lying if I said I wasn&amp;rsquo;t scared of the code. Having 5 mental brakdowns and 3 deleted blogsites in a span of 2 days really did make me feel like a true programmer though.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post/About Me</title>
-      <link>https://coffeecookey.github.io/blog/docs/posts/first-post/</link>
+      <link>http://localhost:1313/blog/docs/posts/first-post/</link>
       <pubDate>Tue, 01 Apr 2025 17:44:44 +0530</pubDate>
-      <guid>https://coffeecookey.github.io/blog/docs/posts/first-post/</guid>
+      <guid>http://localhost:1313/blog/docs/posts/first-post/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 &lt;p&gt;Hello, world! My name is Tanisha and I am a first year B.Tech IT student at Indira Gandhi Delhi Technical University for Women (IGDTUW).&lt;/p&gt;
 &lt;p&gt;My college keeps me very busy (the travel time alone is exhausting enough haha) but when I&amp;rsquo;m not focusing on academics, you&amp;rsquo;ll find me &lt;em&gt;dabbling in design&lt;/em&gt; (check out my &lt;a href=&#34;https://www.behance.net/tanishaojha20&#34;&gt;Behance&lt;/a&gt;), &lt;em&gt;reading a book&lt;/em&gt; or &lt;em&gt;making art&lt;/em&gt;! If I&amp;rsquo;m feeling super ambitious, you&amp;rsquo;ll catch me studying about machine learning, cryptocurrancy or cybersecurity.&lt;/p&gt;</description>
