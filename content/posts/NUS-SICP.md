@@ -39,8 +39,6 @@ Source has its own libraries, which can be found [here](https://source-academy.g
 
 For the assets, we tried our best to make original designs. For the main character, I was inspired by a few Pinterest posts and a Winx Club character (Tecna), so I chose pink hair and green-blue eyes. I made the basic character art using a website called [Pixilart](https://www.pixilart.com/) and then had ChatGPT create a sprite sheet for it.
 
-![player](/blog/docs/EP-player.png)
-
 ### Blocks & Background
 
 The ground, exit & keycard blocks were pretty generic. Since Portal is set in a dystopian future, inside a testing facility which is similar to a lab, we decided to make greyish ground blocks. To set it apart, we decided to play around and make our version more cyberpunk. We actively utilised colours like shades of purple, blue, grey, orange and white throughout the design phase. Initially, we thought about making the game very black, white and grey, to make it seem more like a laboratory. We soon realized that this would make our game dull, and so we decided to lean into the cyberpunk aesthetic and added more colours to other blocks. Interestingly enough, some of these colours weren't just for a decorative purpose. For example, we added colour-coordinated buttons and doors to make the game a little harder to solve!
@@ -48,7 +46,5 @@ The ground, exit & keycard blocks were pretty generic. Since Portal is set in a 
 ### UI - Help buttons and tutorials
 
 We decided to keep this section simple and chose colors that would contrast with the background. Since the background was blue-green, white was a perfect fit. It took us a while to find the perfect shade of orange that would go with the background, but I'd like to think that we did a pretty good job with the color scheme overall!
-
-![img](/blog/docs/img.jpg)
 
 To learn more about the coding aspect, check out the [next post](https://coffeecookey.github.io/blog/docs/posts/nus-sicp/nus-sicp2/)!
