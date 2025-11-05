@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Design on Coffeecookey</title>
-    <link>http://localhost:49537/blog/docs/tags/design/</link>
+    <link>http://localhost:1313/blog/docs/tags/design/</link>
     <description>Recent content in Design on Coffeecookey</description>
     <image>
       <title>Coffeecookey</title>
-      <url>http://localhost:49537/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:49537/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/blog/docs/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Aug 2025 14:45:13 +0530</lastBuildDate>
-    <atom:link href="http://localhost:49537/blog/docs/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/docs/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Designing Portal in 2D - Exit Protocol</title>
-      <link>http://localhost:49537/blog/docs/posts/nus-sicp/</link>
+      <link>http://localhost:1313/blog/docs/posts/nus-sicp/</link>
       <pubDate>Sat, 23 Aug 2025 14:45:13 +0530</pubDate>
-      <guid>http://localhost:49537/blog/docs/posts/nus-sicp/</guid>
+      <guid>http://localhost:1313/blog/docs/posts/nus-sicp/</guid>
       <description>&lt;p&gt;(1/2)&lt;/p&gt;
 &lt;p&gt;This post is part of a series of posts. This post discusses the &lt;strong&gt;introduction&lt;/strong&gt; and &lt;strong&gt;design&lt;/strong&gt; aspects of the game.&lt;/p&gt;
 &lt;p&gt;Click here for the 2nd post.&lt;/p&gt;
