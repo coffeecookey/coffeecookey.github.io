@@ -49,5 +49,5 @@ The ground, exit & keycard blocks were pretty generic. Since Portal is set in a 
 
 We decided to keep this section simple and chose colors that would contrast with the background. Since the background was blue-green, white was a perfect fit. It took us a while to find the perfect shade of orange that would go with the background, but I'd like to think that we did a pretty good job with the color scheme overall!
 
-![img](/blog/docs/img.jpg)
+![img](img.jpg)
 
