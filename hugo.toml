@@ -138,3 +138,4 @@ noClasses = false
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
+ignoreErrors: ["error-remote-getjson"]
