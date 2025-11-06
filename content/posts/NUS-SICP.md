@@ -39,7 +39,7 @@ Source has its own libraries, which can be found [here](https://source-academy.g
 
 For the assets, we tried our best to make original designs. For the main character, I was inspired by a few Pinterest posts and a Winx Club character (Tecna), so I chose pink hair and green-blue eyes. I made the basic character art using a website called [Pixilart](https://www.pixilart.com/) and then had ChatGPT create a sprite sheet for it.
 
-![player](/blog/docs/EP-player.png)
+![player](./NUS-SICP/EP-player.png)
 
 ### Blocks & Background
 
@@ -49,5 +49,5 @@ The ground, exit & keycard blocks were pretty generic. Since Portal is set in a 
 
 We decided to keep this section simple and chose colors that would contrast with the background. Since the background was blue-green, white was a perfect fit. It took us a while to find the perfect shade of orange that would go with the background, but I'd like to think that we did a pretty good job with the color scheme overall!
 
-![img](img.jpg)
+![img](./NUS-SICP/img.jpg)
 
