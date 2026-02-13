@@ -20,7 +20,7 @@ tag = "tags"
 
 [params]
 env = "production"
-title = "Coffeecookey"
+title = ""
 description = "My digital diary"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Tanisha Ojha"
@@ -52,13 +52,13 @@ tocopen = false
   safari_pinned_tab = "/favicon-16x16.png"
 
   [params.label]
-  text = ""
+  text = "Coffeecookey"
   iconHeight = 35
 
   [params.profileMode]
   enabled = true
   title = "Tanisha Ojha"
-  subtitle = "Navigating life, and a little crazy about coding & coffee ☕"
+  subtitle = "Undergrad at Indira Gandhi Delhi Technical University for Women. Interests include functional programming, llms, computer vision and nlp."
   # imageUrl = "me.jpeg"
   imageWidth = 250
   imageHeight = 250
