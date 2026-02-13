@@ -104,9 +104,11 @@ article p {
 .logo a {
   font-size: 16px !important;
   font-weight: 600 !important;
-  line-height: 1 !important;
-  padding-up: 4px !important;
 }
 
 /* If label contains inline svg or img, keep them aligned */
 .logo img { vertical-align: middle; }
+
+.buttons .buttons-inner {
+    radius: 0px !important;
+}
