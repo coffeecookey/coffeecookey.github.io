@@ -60,7 +60,11 @@ body {
 /* If label contains inline svg or img, keep them aligned */
 .logo img { vertical-align: middle; }
 
-.page-header svg{
-  width: 14 !important;
-  height: 14 !important;
+/* Fix SVG sizing in h1 elements */
+h1 svg {
+  width: 28px !important;
+  height: 28px !important;
+  display: inline !important;
+  vertical-align: middle !important;
+  margin-left: 4px !important;
 }
