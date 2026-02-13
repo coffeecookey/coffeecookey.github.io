@@ -1,14 +1,13 @@
-@font-face {
-  font-family: "MonoxRegular";
-  src: url("/fonts/MonoxRegular Regular.ttf") format("truetype");
-}
+/* Load Roboto Mono from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
 
+/* Apply Roboto Mono globally */
 * {
-  font-family: "MonoxRegular", sans-serif !important;
+  font-family: 'Roboto Mono', monospace !important;
 }
 
 body {
-  font-family: "MonoxRegular", sans-serif !important;
+  font-family: 'Roboto Mono', monospace !important;
 }
 
 /* Left-align profile/home and listing content (override theme defaults) */
