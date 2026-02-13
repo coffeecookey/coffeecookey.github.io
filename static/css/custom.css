@@ -1,13 +1,14 @@
-/* Load Roboto Mono from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+/* Prefer system monospace fonts, fall back to common web monospaced fonts.
+   Import webfonts for Inconsolata, Fira Mono and Source Code Pro as fallbacks. */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Fira+Mono:wght@400;700&family=Source+Code+Pro:wght@400;700&display=swap');
 
-/* Apply Roboto Mono globally */
+/* Apply preferred font stack globally */
 * {
-  font-family: 'Roboto Mono', monospace !important;
+  font-family: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro", monospace !important;
 }
 
 body {
-  font-family: 'Roboto Mono', monospace !important;
+  font-family: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro", monospace !important;
 }
 
 /* Left-align profile/home and listing content (override theme defaults) */
