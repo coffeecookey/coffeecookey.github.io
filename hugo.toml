@@ -56,10 +56,10 @@ tocopen = false
   iconHeight = 35
 
   [params.profileMode]
-  enabled = false
+  enabled = true
   title = "Tanisha Ojha"
   subtitle = "Navigating life, and a little crazy about coding & coffee ☕"
-  imageUrl = "me.jpeg"
+  # imageUrl = "me.jpeg"
   imageWidth = 250
   imageHeight = 250
   imageTitle = "Author image"
@@ -73,8 +73,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hello world, I'm Tanisha Ojha! 👩🏻‍💻"
-  Content = "Welcome to my blog."
+  Title = "Tanisha Ojha"
+  Content = "Undergrad at Indira Gandhi Delhi Technical University for Women. Interests include functional programming, llms, computer vision and nlp."
 
   [[params.socialIcons]]
   name = "github"
