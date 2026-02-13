@@ -57,7 +57,7 @@ tocopen = false
 
   [params.profileMode]
   enabled = true
-  title = "Tanisha Ojha"
+  title = ""
   subtitle = "Undergrad at Indira Gandhi Delhi Technical University for Women. Interests include functional programming, llms, computer vision and nlp."
   # imageUrl = "me.jpeg"
   imageWidth = 250

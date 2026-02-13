@@ -1,13 +1,27 @@
-/* Load Roboto Mono from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+/* Prefer system monospace fonts, fall back to common web monospaced fonts.
+   Import webfonts for Inconsolata, Fira Mono and Source Code Pro as fallbacks. */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Fira+Mono:wght@400;700&family=Source+Code+Pro:wght@400;700&display=swap');
 
-/* Apply Roboto Mono globally */
+/* Apply preferred font stack globally */
 * {
-  font-family: 'Roboto Mono', monospace !important;
+  font-family: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro", monospace !important;
 }
 
 body {
-  font-family: 'Roboto Mono', monospace !important;
+  font-family: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro", monospace !important;
+}
+
+.list .main .profile .profile_inner h1,
+.main .profile .profile_inner h1 {
+  font-size: 24px !important;
+  line-height: 1.05 !important;
+}
+
+.list .main .profile .profile_inner span,
+.main .profile .profile_inner span {
+  font-size: 14px !important;
+  display: block !important;
+  margin-top: 6px !important;
 }
 
 /* Left-align profile/home and listing content (override theme defaults) */
@@ -20,7 +34,6 @@ body {
 .profile .profile_inner {
   align-items: flex-start !important;
 }
-
 /* Ensure entry lists are left aligned on list pages */
 .list .first-entry,
 .list .post-entry,
@@ -33,3 +46,17 @@ body {
 .main .profile .buttons {
   justify-content: flex-start !important;
 }
+
+/* Navbar underline and smaller site label */
+.header {
+  border-bottom: 1px solid rgba(0,0,0,0.06) !important;
+}
+
+.logo a {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  line-height: 1 !important;
+}
+
+/* If label contains inline svg or img, keep them aligned */
+.logo img { vertical-align: middle; }
