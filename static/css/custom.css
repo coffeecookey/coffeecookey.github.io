@@ -11,11 +11,6 @@ body {
   font-family: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro", monospace !important;
 }
 
-/* Home/profile font sizes */
-.main .profile h1 { font-size: 24px !important; }    /* site title */
-.main .profile .profile_inner p { font-size: 14px !important; } /* subtitle/description */
-
-/* More specific selectors to override theme rules */
 .list .main .profile .profile_inner h1,
 .main .profile .profile_inner h1 {
   font-size: 24px !important;
@@ -51,3 +46,17 @@ body {
 .main .profile .buttons {
   justify-content: flex-start !important;
 }
+
+/* Navbar underline and smaller site label */
+.header {
+  border-bottom: 1px solid rgba(0,0,0,0.06) !important;
+}
+
+.logo a {
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  line-height: 1 !important;
+}
+
+/* If label contains inline svg or img, keep them aligned */
+.logo img { vertical-align: middle; }
