@@ -55,7 +55,6 @@ body {
 .logo a {
   font-size: 16px !important;
   font-weight: 600 !important;
-  line-height: 1 !important;
 }
 
 /* If label contains inline svg or img, keep them aligned */
