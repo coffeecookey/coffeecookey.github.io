@@ -111,8 +111,8 @@ article p {
 
 /* Fix SVG sizing in h1 elements */
 h1 svg {
-  width: 28px !important;
-  height: 28px !important;
+  width: 18px !important;
+  height: 18px !important;
   display: inline !important;
   vertical-align: middle !important;
   margin-left: 4px !important;
