@@ -11,6 +11,10 @@ body {
   font-family: "SF Mono", "Monaco", "Inconsolata", "Fira Mono", "Droid Sans Mono", "Source Code Pro", monospace !important;
 }
 
+/* Home/profile font sizes */
+.main .profile h1 { font-size: 32px !important; }    /* site title */
+.main .profile .profile_inner p { font-size: 16px !important; } /* subtitle/description */
+
 /* Left-align profile/home and listing content (override theme defaults) */
 .main .profile {
   text-align: left !important;
