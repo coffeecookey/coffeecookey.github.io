@@ -62,6 +62,40 @@ body {
   justify-content: flex-start !important;
 }
 
+/* Fix main container to ensure profile content is left-aligned */
+.main {
+  display: block !important;
+  width: 100% !important;
+}
+
+.profile .buttons {
+  width: 100% !important;
+  display: flex !important;
+  justify-content: flex-start !important;
+  flex-wrap: wrap !important;
+}
+
+/* Reduce text sizes globally */
+body {
+  font-size: 14px !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 0.9em !important;
+}
+
+/* Post content text sizes */
+.post-content,
+.entry-content,
+article p {
+  font-size: 13px !important;
+  line-height: 1.5 !important;
+}
+
+.entry-content {
+  font-size: 12px !important;
+}
+
 /* Navbar underline and smaller site label */
 .header {
   border-bottom: 1px solid rgba(0,0,0,0.06) !important;
