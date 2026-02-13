@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "MonoxRegular";
+  src: url("/fonts/MonoxRegular Regular.ttf") format("truetype");
+}
+
+* {
+  font-family: "MonoxRegular", sans-serif !important;
+}
+
+body {
+  font-family: "MonoxRegular", sans-serif !important;
+}
