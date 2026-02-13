@@ -1,6 +1,6 @@
 baseURL = 'https://coffeecookey.github.io/blog/docs/'
 languageCode = 'en-us'
-title = "Tanisha Ojha"
+title = "Tanisha's portfolio"
 theme="PaperMod"
 
 enableRobotsTXT = true
@@ -52,7 +52,7 @@ tocopen = false
   safari_pinned_tab = "/favicon-16x16.png"
 
   [params.label]
-  text = "Tanisha Ojha"
+  text = "Home"
   iconHeight = 35
 
   [params.profileMode]
